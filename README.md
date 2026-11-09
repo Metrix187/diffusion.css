@@ -131,3 +131,7 @@ python -m venv .venv
 - [css-ml](https://github.com/mickael-btc/css-ml), mickael-btc: classifiers and a VAE decoder in CSS;
   the integer-register approach here follows the one described in its README
 - [x86CSS](https://lyra.horse/x86css/), Lyra Rebane
+
+## License
+
+MIT. See `LICENSE`.
